@@ -1,0 +1,7 @@
+# Main Codeowners
+*                               @handson-code/administrator
+
+# Add Directory level codeowners:
+# Docker                       @handson-code/systems
+# src                          @handson-code/systems
+# src/react-application        @handson-code/frontend
